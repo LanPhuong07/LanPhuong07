@@ -2,7 +2,7 @@
     <div align=center>
         <img src="https://raw.githubusercontent.com/LanPhuong07/LanPhuong07/main/5bcbd0bd7c033c9d6f0ef6bf96effd72.gif" alt="Phương Phương" height="200"> 
         <br>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%23D020C2&size=30&center=true&vCenter=true&height=55&lines=Hi+there%2C+I'm+Lan+Phuong;Newbie+-+Call+me+Chyyy;IS+-+Information+Security;Web+Application+Pentester" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%23F77846&center=true&vCenter=true&lines=Hi+there%2C+I'm+Lan+Phuong;Newbie+-+Call+me+Chyyy;Information+Security;Web+Application+Peneration+Tester" alt="Headline" />
         </div>
         <div align=center>
             <table style="width:100%" border="none">
