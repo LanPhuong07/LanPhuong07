@@ -12,7 +12,7 @@
                         /></th>
                     <td>
                         <ul>
-                            <li>💌 <b>I’m a member of</b>: <a href="https://portswigger.net/web-security/all-labs/">ISP CLUB</a></li>
+                            <li>💌 <b>I’m a member of</b>: <a href="https://github.com/ispclub">ISP CLUB</a></li>
                             <li>🌱 <b>I’m currently learning</b>: Web Application Peneration Testing.</li>
                             <li>🎯 <b>I’m currently focusing on</b>: <a href="https://portswigger.net/web-security/all-labs/">Portswigger</a></li>
                         </ul>
