@@ -4,8 +4,6 @@
     </div>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%23FF27ED&height=55&lines=Hi+there%2C+I'm+Lan+Phuong;Newbie+-+Call+me+Chyyy;IS+-+Information+Security;Web+Application+Pentester" alt="Headline" />
-<br>
-----------------------------------------------------------------
     </div>
     <div align=left>
         <ul>
