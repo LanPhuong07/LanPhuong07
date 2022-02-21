@@ -42,6 +42,6 @@
         <img src="https://raw.githubusercontent.com/LanPhuong07/LanPhuong07/master/img/github.png" alt="github logo" width="57"><img src="https://raw.githubusercontent.com/LanPhuong07/LanPhuong07/master/img/telegram.png" alt="tele logo" width="60">
     </div>
     
-    ------
+------
 
-    Credit: [Phuong Phuong](https://github.com/LanPhuong07)
+Credit: [Phuong Phuong](https://github.com/LanPhuong07)
