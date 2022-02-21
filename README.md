@@ -1,6 +1,6 @@
 <div>
     <div align=center>
-        <img src="https://raw.githubusercontent.com/LanPhuong07/LanPhuong07/main/5bcbd0bd7c033c9d6f0ef6bf96effd72.gif" alt="Phương Phương" height="200">
+        <img src="https://raw.githubusercontent.com/LanPhuong07/LanPhuong07/main/5bcbd0bd7c033c9d6f0ef6bf96effd72.gif" alt="Phương Phương" height="200"> <br
     </div>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%23FF27ED&height=55&lines=Hi+there%2C+I'm+Lan+Phuong;Newbie+-+Call+me+Chyyy;IS+-+Information+Security;Web+Application+Pentester" alt="Headline" />
@@ -8,6 +8,7 @@
 ----------------------------------------------------------------
     </div>
     <div align=left>
+<img src="https://camo.githubusercontent.com/c18ad7d1f4275841d1d83ecd438d3fe514b1788f171259834f73fda02c719205/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966" />
         <ul>
             <li>💌 <b>I’m a member of</b>: <a href="https://portswigger.net/web-security/all-labs/">ISP CLUB</a></li>
             <li>🌱 <b>I’m currently learning</b>: Web Application Peneration Testing.</li>
@@ -22,7 +23,6 @@
         <br>
     </div>
     <div align=center>
-<img src="https://camo.githubusercontent.com/c18ad7d1f4275841d1d83ecd438d3fe514b1788f171259834f73fda02c719205/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966" />
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="200">
         <p>Loading</p>
     </div>
