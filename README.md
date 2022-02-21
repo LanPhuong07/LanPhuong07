@@ -33,7 +33,7 @@
         </div>
         <div align=center>
         <br>
-            <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="200">
+            <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
             <p>Loading</p>
         </div>
     </div>
@@ -41,7 +41,3 @@
         <h1>Contact me</h1>
         <img src="https://raw.githubusercontent.com/LanPhuong07/LanPhuong07/master/img/github.png" alt="github logo" width="57"><img src="https://raw.githubusercontent.com/LanPhuong07/LanPhuong07/master/img/telegram.png" alt="tele logo" width="60">
     </div>
-    
-------
-
-Credit: [Phuong Phuong](https://github.com/LanPhuong07)
