@@ -39,8 +39,7 @@
     </div>
     <div align=center>
         <h1>Contact me</h1>
-        [<img src="https://raw.githubusercontent.com/LanPhuong07/LanPhuong07/master/img/github.png" alt="github logo" width="57">](https://github.com/LanPhuong07)[<img src="https://raw.githubusercontent.com/LanPhuong07/LanPhuong07/master/img/telegram.png"
-            alt="tele logo" width="60">](https://t.me/lp_0701)
+        <img src="https://raw.githubusercontent.com/LanPhuong07/LanPhuong07/master/img/github.png" alt="github logo" width="57"><img src="https://raw.githubusercontent.com/LanPhuong07/LanPhuong07/master/img/telegram.png" alt="tele logo" width="60">
     </div>
     ------ 
     Credit: [Phuong Phuong](https://github.com/LanPhuong07)
