@@ -18,10 +18,7 @@
                         </ul>
                     </td>
                 </tr>
-
             </table>
-
-
         </div>
         <div align=center>
             <h1>Contribution Activity</h1>
@@ -34,11 +31,10 @@
             <p>Loading</p>
         </div>
     </div>
-
     <div align=center>
         <h1>Contact me</h1>
         [<img src="https://raw.githubusercontent.com/LanPhuong07/LanPhuong07/master/img/github.png" alt="github logo" width="57">](https://github.com/LanPhuong07)[<img src="https://raw.githubusercontent.com/LanPhuong07/LanPhuong07/master/img/telegram.png"
             alt="tele logo" width="60">](https://t.me/lp_0701)
     </div>
-
-    ------ Credit: [Phuong Phuong](https://github.com/LanPhuong07)
+    ------ 
+    Credit: [Phuong Phuong](https://github.com/LanPhuong07)
