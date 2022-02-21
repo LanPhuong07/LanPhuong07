@@ -16,14 +16,14 @@
     </div>
     <div align=center>
         <h1>Contribution Activity</h1>
-        <img src="https://camo.githubusercontent.com/c18ad7d1f4275841d1d83ecd438d3fe514b1788f171259834f73fda02c719205/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966" />
         <img src="https://github-readme-stats.vercel.app/api?username=LanPhuong07&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=flag-india" alt="GitHub Stats" height="200" />
-<img src="http://github-readme-streak-stats.herokuapp.com?user=LanPhuong07&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stat)")
+<img src="http://github-readme-streak-stats.herokuapp.com?user=LanPhuong07&date_format=j%20M%5B%20Y%5D)")
         <br>
         <br>
     </div>
     <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+<img src="https://camo.githubusercontent.com/c18ad7d1f4275841d1d83ecd438d3fe514b1788f171259834f73fda02c719205/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966" />
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="200">
         <p>Loading</p>
     </div>
 </div>
