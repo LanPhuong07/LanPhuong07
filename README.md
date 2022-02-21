@@ -22,11 +22,17 @@
         </div>
         <div align=center>
             <h1>Contribution Activity</h1>
-            <img src="https://github-readme-stats.vercel.app/api?username=LanPhuong07&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=flag-india" alt="GitHub Stats" height="200" />
-            <img src="http://github-readme-streak-stats.herokuapp.com?user=LanPhuong07&date_format=j%20M%5B%20Y%5D)" ) <br>
+            <table>
+                <tr>
+                    <td><img src="https://github-readme-stats.vercel.app/api?username=LanPhuong07&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=flag-india" alt="GitHub Stats" height="200" />
+                </td>
+                    <td><img src="http://github-readme-streak-stats.herokuapp.com?user=LanPhuong07&date_format=j%20M%5B%20Y%5D"></td>
+                </tr>
+            </table>
             <br>
         </div>
         <div align=center>
+        <br>
             <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="200">
             <p>Loading</p>
         </div>
