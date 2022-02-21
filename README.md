@@ -7,8 +7,8 @@
         <div align=center>
             <table style="width:100%" border="none">
                 <tr>
-                    <th><img src="https://camo.githubusercontent.com/c18ad7d1f4275841d1d83ecd438d3fe514b1788f171259834f73fda02c719205/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966"
-                        /></th>
+                    <td><img src="https://camo.githubusercontent.com/c18ad7d1f4275841d1d83ecd438d3fe514b1788f171259834f73fda02c719205/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966"
+                        /></td>
                     <td>
                         <ul>
                             <li>💌 <b>I’m a member of</b>: <a href="https://github.com/ispclub">ISP CLUB</a></li>
